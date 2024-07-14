@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sawan Kumar Das",
+      "email": "sawan@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Subhash Bose",
+      "email": "bose@gmail.com"
+    },
+    {
+      "name": "Balia Das",
+      "email": "balia@gmail.com",
+      "id": "8"
+    }
+  ]
+}
